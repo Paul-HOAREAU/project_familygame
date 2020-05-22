@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26e3ea87-0ac8-48f4-931c-dc01ac3d520a" name="Default Changelist" comment="" />
+    <list default="true" id="26e3ea87-0ac8-48f4-931c-dc01ac3d520a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,11 +15,21 @@
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1cHQkZUwdh7xboBfB3gXLK3rGBU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wwwpo\IdeaProjects\project_familygame\img" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -29,8 +41,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590183182793</updated>
-      <workItem from="1590183188291" duration="1000" />
+      <workItem from="1590183188291" duration="698000" />
     </task>
+    <task id="LOCAL-00001" summary="test push video.mp4">
+      <created>1590183261960</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590183261960</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test push video.mp4" />
+    <option name="LAST_COMMIT_MESSAGE" value="test push video.mp4" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="558" y="114" key="CommitChangelistDialog2" timestamp="1590183261371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="558" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590183261371" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1590183263885">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590183263885" />
   </component>
 </project>
